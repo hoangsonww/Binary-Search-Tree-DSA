@@ -77,7 +77,4 @@ bst.createTree(values);
 ## Contributing
 Contributions to improve the Binary Search Tree implementation or extend its functionality are welcome. Please fork the repository, make your changes, and submit a pull request with a clear description of your modifications or additions.
 
-## License
-Specify your project's license here, if applicable.
-
 ---
