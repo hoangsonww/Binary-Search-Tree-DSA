@@ -1,4 +1,4 @@
-# Binary Search Tree Implementation
+# Binary Search Tree - DSA Project
 
 ## Overview
 This Java project implements a Binary Search Tree (BST) with fundamental operations such as insertion, deletion, and traversal. Designed with efficiency and simplicity in mind, this class provides an intuitive way to manage and manipulate a collection of integers in a hierarchical structure.
@@ -72,6 +72,12 @@ Overwrite the current tree with a new tree constructed from an array of integers
 ```java
 int[] values = {3, 1, 4, 2};
 bst.createTree(values);
+```
+
+### Main File
+There is also a Main.java file, which comprehensively tests all the functions and methods of the BST class. Feel free to run it as follows:
+```bash
+java Main
 ```
 
 ## Contributing
