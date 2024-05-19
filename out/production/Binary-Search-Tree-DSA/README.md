@@ -84,5 +84,3 @@ java Main
 Contributions to improve the Binary Search Tree implementation or extend its functionality are welcome. Please fork the repository, make your changes, and submit a pull request with a clear description of your modifications or additions.
 
 ---
-
-Created with ❤️ by [Son Nguyen](https://github.com/hoangsonww) in 2023.
