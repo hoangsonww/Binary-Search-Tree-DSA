@@ -14,6 +14,7 @@ This Java project implements a Binary Search Tree (BST) with fundamental operati
 
 ## Prerequisites
 - Java Development Kit (JDK) 11 or later.
+- A Java IDE (e.g. IntelliJ IDEA or Eclipse) is highly recommended.
 
 ## Setup and Compilation
 1. Ensure Java is installed on your system. You can verify this by running `java -version` in your command line or terminal.
